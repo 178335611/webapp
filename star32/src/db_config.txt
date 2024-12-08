@@ -1,0 +1,3 @@
+jdbc:mysql://localhost:3306/mysql?useUnicode=true&characterEncoding=utf8
+root
+123456
